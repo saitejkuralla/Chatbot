@@ -1,4 +1,4 @@
-# FinanceBot
+# Finance and HR Bot
 A finance chatbot developed using Microsoft Bot Framework and LUIS.
 Issues:
 1. Using the API account key instead of LUIS programmatic key. 401 error (permission denied)
